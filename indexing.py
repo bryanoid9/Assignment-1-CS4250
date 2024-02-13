@@ -10,7 +10,7 @@
 #AS numpy OR pandas. You have to work here only with standard arrays
 # Importing some Python libraries
 import csv
-import math
+import math #import math for log
 
 # Reading the data in a csv file
 documents = []
