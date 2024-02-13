@@ -1,8 +1,8 @@
 
 #-------------------------------------------------------------------------
 # AUTHOR: Bryan Martinez Ramirez
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# FILENAME: indexing.py
+# SPECIFICATION: Indexing words
 # FOR: CS 4250- Assignment #1
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
